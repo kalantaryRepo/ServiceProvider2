@@ -1,4 +1,4 @@
-package vue.Entity;
+package sp.spring.vue.Entity;
 
 import lombok.Getter;
 import lombok.Setter;

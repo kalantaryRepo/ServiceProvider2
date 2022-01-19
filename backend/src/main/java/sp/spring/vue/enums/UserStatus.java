@@ -1,4 +1,4 @@
-package vue.enums;
+package sp.spring.vue.enums;
 
 public enum UserStatus {
     NEW(1L, "new"),

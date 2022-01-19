@@ -1,4 +1,4 @@
-package vue.Entity;
+package sp.spring.vue.Entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
