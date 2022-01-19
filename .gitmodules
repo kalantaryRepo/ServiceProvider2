@@ -1,3 +1,6 @@
 [submodule "backend/ServiceProvider2"]
 	path = backend/ServiceProvider2
 	url = https://github.com/kalantaryRepo/ServiceProvider2.git
+[submodule "frontend/ServiceProvider2"]
+	path = frontend/ServiceProvider2
+	url = https://github.com/kalantaryRepo/ServiceProvider2
