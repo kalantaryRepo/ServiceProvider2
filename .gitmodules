@@ -4,3 +4,6 @@
 [submodule "frontend/ServiceProvider2"]
 	path = frontend/ServiceProvider2
 	url = https://github.com/kalantaryRepo/ServiceProvider2
+[submodule "backend/backend"]
+	path = backend/backend
+	url = https://github.com/kalantaryRepo/ServiceProvider2
